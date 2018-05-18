@@ -8,7 +8,7 @@ Find the line with your name and submit a Pull Request changing the line with yo
 
 Consider the important question "The *best* pizza is..."
 
-* Chen says "(fill me in)"
+* Chen says "The best pizza has pineapple on it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 * Sara Beth says "(fill me in)"
 * Shannon says "(fill me in)"
 * Ashley says "(fill me in)"
