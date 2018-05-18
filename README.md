@@ -8,7 +8,7 @@ Find the line with your name and submit a Pull Request changing the line with yo
 
 Consider the important question "The *best* pizza is..."
 
-* Chen says "The best pizza has pineapple on it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+* Chen says "(fill me in)"
 * Sara Beth says "(fill me in)"
 * Shannon says "(fill me in)"
 * Ashley says "(fill me in)"
@@ -34,5 +34,5 @@ Consider the important question "The *best* pizza is..."
 * Topher says "(fill me in)"
 * Bria says "(fill me in)"
 * Abby says "(fill me in)"
-* Liz says "(fill me in)"
+* Liz says "wood fired, thin crust. With Mushrooms"
 * Ellen Mary says "Atomic Cowboy: Pineapple and feta"
